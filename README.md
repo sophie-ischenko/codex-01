@@ -80,4 +80,4 @@ Die Visitenkarte ist fertig? In `DEPLOYEN.md` steht, wie du sie mit Netlify Drop
 
 ---
 
-*Teil der Artikelserie ,,Praxis" aus dem [Codex Journal](codex.fundament-studio.de).*
+*Teil der Artikelserie ,,Praxis" aus dem [Codex Journal](https://codex.fundament-studio.de).*
