@@ -2,7 +2,8 @@
 
 Eine einzelne HTML-Datei. Dein Name, deine Rolle, dein Kontakt – kein Framework, kein CMS, keine Plattform.
 
-Dieses Repository gehört zum Artikel **„Deine erste eigene Seite"** auf [Upgrade läuft →](https://upgradelaeuft.substack.com)
+Dieses Repository gehört Artikelserie ,,Praxis" aus dem [Codex Journal 
+](https://codex.fundament-studio.de)
 
 ---
 
